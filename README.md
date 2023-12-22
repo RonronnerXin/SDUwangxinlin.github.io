@@ -1,1 +1,2 @@
-# SDUwangxinlin.github.io
+# 尝试使用github
+# 为更好地学习编程知识进行努力
